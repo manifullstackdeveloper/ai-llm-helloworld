@@ -1,0 +1,15 @@
+# common 
+dotenv
+
+#for open ai
+openai
+
+# for ollma
+ollama
+
+# for langchain
+langchain
+langchain_community
+
+# for langsmith
+langsmith
