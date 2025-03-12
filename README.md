@@ -1,5 +1,5 @@
 # ai-llm-helloworld
-Only Helloworld for LLM
+Only Helloworld with different LLM
 
 ## Terminology
 
