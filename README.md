@@ -1,6 +1,16 @@
 # ai-llm-helloworld
 Only Helloworld for LLM
 
+## Terminology
+
+| Term      | What It Is                                                                 |
+|-----------|----------------------------------------------------------------------------|
+| LLaMA     | Meta's open-source language model family (LLaMA 2, LLaMA 3...)             |
+| Ollama    | A local LLM runtime — makes it easy to run models like LLaMA, Mistral, etc.|
+| OpenAI    | Cloud-based LLMs like GPT-3.5, GPT-4, Codex. Requires internet + API key.  |
+| LangChain | A Python (or JS) framework for building LLM-powered apps (RAG, agents, chatbots, etc.) |
+| LangSmith | A dev/debugging platform built by LangChain to trace and visualize LLM calls |
+
 ## What is LLM?
 LLM stands for Large Language Model, a type of artificial intelligence designed to understand and generate human-like text based on vast amounts of data.
 
