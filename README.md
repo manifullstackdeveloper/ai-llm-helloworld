@@ -31,7 +31,7 @@ LLM stands for Large Language Model, a type of artificial intelligence designed 
 4. Use OpenAI library to call OpenAI APIs
 
 ## OpenAI
-OpenAI is an AI research and deployment company. Their mission is to ensure that artificial general intelligence benefits all of humanity.
+**OpenAI** is an AI research and deployment company. Its mission is to ensure that **artificial general intelligence (AGI)** benefits all of humanity.
 
 1. Create an account - [OpenAI API Keys](https://platform.openai.com/api-keys)
 2. Get API key
