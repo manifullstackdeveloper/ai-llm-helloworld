@@ -5,7 +5,7 @@ import ollama
 # Thats why you dont see any api key such as open ai, huggingface etc.,
 ########################################################################################################
 response = ollama.chat(
-    model="llama3",
+    model="llama3.2:1b",
     messages=[
         {
             "role": "user",
