@@ -11,6 +11,16 @@ Only Helloworld for LLM
 | LangChain | A Python (or JS) framework for building LLM-powered apps (RAG, agents, chatbots, etc.) |
 | LangSmith | A dev/debugging platform built by LangChain to trace and visualize LLM calls |
 
+
+## Use Case Example
+
+| Use Case              | Recommended Tool |
+|-----------------------|------------------|
+| Run LLaMA locally     | Ollama           |
+| Use GPT-4/GPT-3.5     | OpenAI           |
+| Build LLM apps        | LangChain        |
+| Debug & trace LLM apps| LangSmith        |
+
 ## What is LLM?
 LLM stands for Large Language Model, a type of artificial intelligence designed to understand and generate human-like text based on vast amounts of data.
 
